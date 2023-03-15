@@ -1,0 +1,30 @@
+{
+    "Exp. Group": "3_MS92xMS75_EtA1K_MA10_TEST",
+    "Experiment Date and Time": "2020.09.24_19-32-13",
+    "Framerate": 2,
+    "Model Organism": "3rd instar Dmel",
+    "Pixel per mm": 4.21,
+    "Recording time": 180,
+    "Resolution": "640x480",
+    "backlight 2 channel": [],
+    "backlight 2 dutcycle": [],
+    "backlight channel": [],
+    "backlight dutycycle": [],
+    "output channel 1": [
+        [
+            17,
+            40000
+        ],
+        [
+            27,
+            40000
+        ],
+        [
+            13,
+            40000
+        ]
+    ],
+    "output channel 2": [],
+    "output channel 3": [],
+    "output channel 4": []
+}
